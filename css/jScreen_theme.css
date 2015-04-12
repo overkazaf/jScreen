@@ -1,0 +1,12 @@
+@charset utf-8;
+li {list-style: none;}
+.jscreen{
+	position: relative;
+	overflow: hidden;
+}
+ul.jScreen_ui_list {
+	margin:0;padding:0;
+}
+.btn_selected{
+	background: #000;
+}
